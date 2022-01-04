@@ -1,26 +1,11 @@
 
-// int dp[1032][100005;
- #define ll long long
-    #define M 1000000007
+#define ll long long
+#define M 1000000007
 vector<ll> dp[1032];
 
 ll pw[100005];
 class Solution {
 public:
-   
-    void ppo(){
-        if(pw[1])return;
-        pw[0]=1;
-        pw[1]=2;
-        for(int i=2;i<100005;i++){
-        pw[i]=(2LL*pw[i-1])%M;
-        }
-        for(int i=0;i<100005;i++){
-         pw[i]=(pw[i]+M-1)%M;
-        }
-        
-        
-    }
     ll cnt[1032];
     vector<int> prs={2,3,5,7,11,13,17,19,23,29};
     vector<int> masks;
@@ -59,28 +44,12 @@ public:
                     g=1;
                 }
             }
-            // if(nums[i]==14){
-            //     cout<<maskf<<endl;
-            // }
             if(!g) cnt[maskf]++;
             if(!g && cnt[maskf]==1) masks.push_back(maskf);
         }
-        // cout<<nums.size()<<endl;
+      
         int n=masks.size();
-        
-//         cout<<n<<endl;
-//         for(int x:masks){
-//             cout<<x<<" "<<cnt[x]<<endl;
-//         }
-        for(int i=0;i<1032;i++){
-            dp[i].assign(n+10,-1);
-        }
-        ppo();
-        // for(int i=0;i<masks.size();i++){
-        //     cout<<masks[i]<<" ";
-        // }cout<<endl;
-        // return 0;
-        // memset(dp,-1,sizeof(dp));
+        for(int i=0;i<1032;i++)dp[i].assign(n+10,-1);
         ll f=(pr*solve(0,masks.size(),0))%M;
         return f;
         // return 0;
