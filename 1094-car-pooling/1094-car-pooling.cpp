@@ -8,9 +8,7 @@ public:
                return a[1]<b[1]; 
           });
          int n=trips.size();
-        for(int i=0;i<n;i++){
-            cout<<trips[i][0]<<" "<<trips[i][1]<<" "<<trips[i][2]<<endl;
-        }
+        
           priority_queue<pair<int,int> > q;
          
           int sum=0; 
