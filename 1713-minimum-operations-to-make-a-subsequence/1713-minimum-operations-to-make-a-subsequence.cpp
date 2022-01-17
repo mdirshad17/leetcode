@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& t, vector<int>& arr) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int n=t.size();
         for(int i=0;i<t.size();i++){
             mp[t[i]]=i;
