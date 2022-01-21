@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             arr[i]=arr[i]%2;
         }
-        unordered_map<int,ll> mp;
+        map<int,ll> mp;
         mp[0]=1;
         ll ans=0;
         int sum=0;
