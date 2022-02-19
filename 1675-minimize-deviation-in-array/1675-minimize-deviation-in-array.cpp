@@ -26,7 +26,7 @@ public:
         //     cout<<x.first<<" "<<x.second<<endl;
         // }
         // cout<<n<<endl;
-        unordered_map<int,int> mp;
+        map<int,int> mp;
         int j=0;
         int ans=INT_MAX;
         for(int i=0;i<v.size();i++){
