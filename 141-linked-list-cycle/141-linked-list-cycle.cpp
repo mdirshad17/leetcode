@@ -8,17 +8,18 @@
  */
 class Solution {
 public:
-    #define ll ListNode
+    
     bool hasCycle(ListNode *head) {
-        if(!head||!head->next)return 0;
+         if(!head||!head->next)return false; 
+         ListNode * slow=head;
+         ListNode * fast=head;
+         while(fast && fast->next){
+             slow=slow->next;
+             fast=fast->next->next;
+             if(slow==fast)return true;
+             
+         }
+        return false;
         
-        ll *s=head;
-        ll *f=head;
-        while(f && f->next){
-            s=s->next;
-            f=f->next->next;
-            if(s==f)return 1;
-        }
-        return 0;
     }
 };
