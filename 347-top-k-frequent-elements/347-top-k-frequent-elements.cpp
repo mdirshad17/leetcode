@@ -7,10 +7,14 @@ public:
         }
         priority_queue<pair<int,int> > pq;
         for(auto x:mp){
-            pq.push({x.second,x.first});
+            
+            pq.push({-1*x.second,x.first});
+            if(pq.size()>k){
+                pq.pop();
+            }
         }
         vector<int> res;
-        while(k--){
+        while(pq.size()){
             res.push_back(pq.top().second);
             pq.pop();
         }
