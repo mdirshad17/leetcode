@@ -2,7 +2,7 @@ class Solution {
 public:
     #define ll long long
     int cnt=0;
-    vector<int> m(vector<int> & a,vector<int> & b){
+    void m(vector<int> & a,vector<int> & b,vector<int> & nums){
         int i=0,j=0,k=0;
         int n=a.size();
         int m=b.size();
@@ -12,29 +12,30 @@ public:
                j++;
            }else i++;
         }
-        vector<int> res;
+        
         i=0,j=0;
+        // int k=0;
         while(i<n && j<m){
            if(b[j]>a[i]){
-               res.push_back(a[i++]);
+               nums[k++]=a[i++];
            }else {
-               res.push_back(b[j++]);
+               nums[k++]=b[j++];
            }
         }
         while(j<m){
-            res.push_back(b[j++]);
+             nums[k++]=b[j++];
         }
         while(i<n){
-            res.push_back(a[i++]);
+             nums[k++]=a[i++];
         }
-        return res;
+     
         
         
         
     }
-    vector<int> ms(vector<int> & nums){
+    int ms(vector<int> & nums){
         int n=nums.size();
-        if(n<=1)return nums;
+        if(n<=1)return 0;
         int n1=n/2;
        
         vector<int> v1,v2;
@@ -44,14 +45,16 @@ public:
         for(int i=n1;i<n;i++){
             v2.push_back(nums[i]);
         }
-        v1=ms(v1);
-        v2=ms(v2);
-        return m(v1,v2);
+        ms(v1);
+        ms(v2);
+        m(v1,v2,nums);
+        return 0;
         
     }
     int reversePairs(vector<int>& nums) {
         cnt=0;
-         nums= ms(nums);
+         // nums= ms(nums);
+        ms(nums);
         
         // for(int x:nums){
         //     cout<<x<<" ";
