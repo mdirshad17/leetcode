@@ -10,13 +10,13 @@ using namespace std;
 class Solution {
   public:
   #define M 1000000007
-  int dp[55][55][55];
+  int dp[55][55];
     int solve(int u,int v,vector<vector<int>> & g,int k){
         if(k<0)return 0;
         if(k==0){
             return (u==v);
         }
-        if(dp[u][v][k]!=-1)return dp[u][v][k];
+        if(dp[u][k]!=-1)return dp[u][k];
         int ans=0;
         for(int i=0;i<g[u].size();i++){
             if(g[u][i]){
@@ -24,7 +24,7 @@ class Solution {
                 ans=ans%M;
             }
         }
-        return dp[u][v][k]=ans%M;
+        return dp[u][k]=ans%M;
     } 
 	int MinimumWalk(vector<vector<int>>&graph, int u, int v, int k){
 	    
