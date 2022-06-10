@@ -16,9 +16,9 @@ public:
                     while(j+1<n && nums[j+1]==nums[j]){
                         j++;
                     }
-                    // while(k-1>=0 && nums[k-1]==nums[k]){
-                    //     k--;
-                    // }
+                    while(k-1>=0 && nums[k-1]==nums[k]){
+                        k--;
+                    }
                     k--;
                     j++;
                 }else if(sum>search){
