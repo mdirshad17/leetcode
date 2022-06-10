@@ -22,7 +22,7 @@ public:
     }
     int findKthLargest(vector<int>& nums, int k) {
         
-        // random_shuffle(num)
+        random_shuffle(nums.begin(),nums.end());
         int n=nums.size();
         int fi=n-k;
         return get(nums,0,n-1,fi);
