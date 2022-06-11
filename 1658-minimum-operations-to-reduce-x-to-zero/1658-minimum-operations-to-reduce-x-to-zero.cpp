@@ -12,7 +12,7 @@ class Solution
             if (tot == x) return n;
             int req = tot - x;
            	// if(req==0)return n;
-            map<int, int> mp;
+            unordered_map<int, int> mp;
             mp[0] = -1;
             int len = -1;
             int sum = 0;
