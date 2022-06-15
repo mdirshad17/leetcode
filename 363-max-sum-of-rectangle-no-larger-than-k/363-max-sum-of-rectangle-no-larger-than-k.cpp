@@ -1,8 +1,9 @@
 class Solution {
 public:
+    set<int> st;
     int subarraysum(vector<int> & v,int k){
         int ans=INT_MIN;
-        set<int> st;
+        st.clear();
         st.insert(0);
         st.insert(INT_MAX/10);
         int sum=0;
