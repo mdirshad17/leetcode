@@ -2,38 +2,30 @@ class Solution
 {
     public:
 #define ll long long
-    int good(vector<int> &nums, ll m)
+    int good(vector<int> &nums)
     {
+        sort(nums.begin(),nums.end());
         int n = nums.size();
         int j = 0;
+        int ans = INT_MAX;
+        int ops = n - 3;
+        if(ops<=1)return 0;
         for (int i = 0; i < n; i++)
         {
-            while ((nums[i] - nums[j]) > m)
+            while ((i - j + 1) > ops)
             {
                 j++;
             }
-            int leftout = (n - (i - j + 1));
-            if (leftout <= 3) return 1;
+            if ((i - j + 1) >= ops)
+            {
+                ans = min(ans, (nums[i] - nums[j]));
+            }
+            // cout<<ans<<endl;
         }
-        return 0;
+        return ans;
     }
     int minDifference(vector<int> &nums)
     {
-        int n = nums.size();
-        // if (n <= 4) return 0;
-        sort(nums.begin(), nums.end());
-        ll l = 0, r = 2e9 + 2;
-        int ans = r;
-        while (l <= r)
-        {
-            ll m = (l *1LL + r *1LL) / 2LL;
-            if (good(nums, m))
-            {
-                ans = m;
-                r = m - 1;
-            }
-            else l = m + 1;
-        }
-        return ans;
+        return good(nums);
     }
 };
