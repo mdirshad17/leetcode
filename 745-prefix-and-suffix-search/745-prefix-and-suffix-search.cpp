@@ -1,83 +1,82 @@
 class WordFilter
 {
     public:
-#define ll long long
-#define M 1000000007
-#define M1 1000000007    
-    const static ll p = 31;
-   	const ll m = 1e9 + 9;
-    
-    ll p_pow[15];
-    void ppx()
-    {
-        p_pow[0] = 1;
-        for (int i = 1; i < 15; i++)
-            p_pow[i] = (p_pow[i - 1] *p *1LL) % M;
-    }
-    ll get(string s)
-    {
+        class Trie
+        {
+            public:
+                Trie *child[27];
 
-        ll num = 0;
-        ll numr = 0;
+            int a[27];
+            Trie()
+            {
+                for (int i = 0; i < 27; i++)
+                {
+                    this->child[i] = NULL;
+                    this->a[i] = -1;
+                }
+            }
+        };
+    void insert(Trie *root, string &s, int num)
+    {
+        Trie *temp = root;
         int n = s.size();
         for (int i = 0; i < n; i++)
         {
-            num += (num + (s[i] - 'a' + 1) *p_pow[i]) % M;
-             numr += (numr + (s[i] - 'a' + 1) *p_pow[i]) % m;
-            
+            int val = s[i] - 'a';
+            if (temp->child[val] == NULL)
+            {
+                temp->child[val] = new Trie();
+            }
+            temp = temp->child[val];
+            temp->a[val] = max(temp->a[val], num);
         }
-        ll sum=((num*m+numr*M)%M)%M;
-        return sum;
     }
-    map<pair<ll,ll>, int> mp;
-    void process(string &s, int num)
+    int search(Trie *root, string s)
     {
         int n = s.size();
-        vector<ll> a, b;
-        string g;
+        Trie *temp = root;
+
         for (int i = 0; i < n; i++)
+        {
+            int val = s[i] - 'a';
+            if (!temp->child[val]) return -1;
+            temp = temp->child[val];
+            if (i == n - 1) return temp->a[val];
+        }
+        return -1;
+    }
+    Trie * root;
+    void process(string & s,int num)
+    {
+        int n = s.size();
+        string g;
+        for (int i = n - 1; i >= 0; i--)
         {
             g.push_back(s[i]);
-            a.push_back(get(g));
-        }
-        string f;
-        for (int i = n-1; i>=0; i--)
-        {
-            f.push_back(s[i]);
-            reverse(f.begin(), f.end());
-            b.push_back(get(f));
-            reverse(f.begin(), f.end());
-        }
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < n; j++)
-            {
-                pair<ll,ll> finals={a[i],b[j]};
-                
-                mp[finals] = max(mp[finals], num);
-            }
+            reverse(g.begin(), g.end());
+            string f=(g+'{'+s);
+            insert(root,f,num);
+            reverse(g.begin(), g.end());
         }
     }
     WordFilter(vector<string> &words)
     {
-        ppx();
-        unordered_map<string, int> mps;
-
+        root=new Trie();
         int n = words.size();
+        unordered_map<string, int> mp;
         for (int i = n - 1; i >= 0; i--)
         {
-            if (mps.count(words[i])) continue;
-            mps[words[i]] = 1;
-            process(words[i], i);
+            if (mp.count(words[i])) continue;
+            process(words[i],i);
+            mp[words[i]] = 1;
         }
     }
 
-    int f(string p, string s)
+    int f(string prefix, string suffix)
     {
-
-        pair<ll,ll> a={get(p),get(s)};
-        if(mp.count(a))return mp[a];
-        return -1;
+        string g = suffix + '{' + prefix;
+        int l = search(root, g);
+        return l;
     }
 };
 
