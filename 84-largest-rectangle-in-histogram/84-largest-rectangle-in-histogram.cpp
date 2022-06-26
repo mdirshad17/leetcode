@@ -1,48 +1,48 @@
-class Solution {
-public:
-    int doit(vector<int> & nums)
-    {
-        int n=nums.size();
-        stack<int> st;
-        vector<int> l(n,-1);
-        vector<int> r(n,n);
-        for(int i=0;i<n;i++)
+class Solution
+{
+    public:
+        int largestRectangleArea(vector<int> &h)
         {
-            while(st.size() && nums[st.top()]>=nums[i])
+            int n = h.size();
+            stack<int> st;
+            int left[n];
+            int right[n];
+            for (int i = 0; i < n; i++)
             {
-                st.pop();
+                while (st.size() && h[i] <= h[st.top()])
+                {
+                    st.pop();
+                }
+                if (st.size())
+                {
+                    left[i] = st.top();
+                }
+                else left[i] = -1;
+                st.push(i);
             }
-            if(st.size()){
-                l[i]=st.top();
-            }
-            st.push(i);
-        }
-        while(st.size()) st.pop();
-        
-        for(int i=n-1;i>=0;i--)
-        {
-            while(st.size() && nums[st.top()]>=nums[i])
+            while (st.size()) st.pop();
+
+            for (int i = n - 1; i >= 0; i--)
             {
-                st.pop();
+                while (st.size() && h[i] <= h[st.top()])
+                {
+                    st.pop();
+                }
+                if (st.size())
+                {
+                    right[i] = st.top();
+                }
+                else right[i] = n;
+                st.push(i);
             }
-            if(st.size()){
-                r[i]=st.top();
+            int ans = 0;
+            for (int i = 0; i < n; i++)
+            {
+                int width = (right[i] - left[i] - 1);
+                int height = h[i];
+                int area = width * height;
+                ans = max(ans, area);
             }
-            st.push(i);
+            return ans;
         }
-        int ans=0;
-        for(int i=0;i<n;i++)
-        {
-            int wd=(r[i]-l[i])-1;
-            ans=max(wd*nums[i],ans);
-        }
-        return ans;
-    }
-    int largestRectangleArea(vector<int>& h) 
-    {
-        int n=h.size();
-        int ans=doit(h);
-        
-        return ans;
-    }
 };
