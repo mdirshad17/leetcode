@@ -13,6 +13,11 @@ public:
     }
     
     int pop() {
+        if(st2.size()){
+            int x=st2.top();
+            st2.pop();
+            return x;
+        }
         while(st1.size()>1){
             st2.push(st1.top());
             st1.pop();
@@ -20,31 +25,26 @@ public:
         int x=st1.top();
         st1.pop();
         
-        while(st2.size()){
-            st1.push(st2.top());
-            st2.pop();
-        }
         return x;
         
     }
     
     int peek() {
-        while(st1.size()>1){
+        if(st2.size()){
+            return st2.top();
+        }
+        int x;
+        while(st1.size()){
             st2.push(st1.top());
+            x=st1.top();
             st1.pop();
         }
-        int x=st1.top();
-        // st1.pop();
         
-        while(st2.size()){
-            st1.push(st2.top());
-            st2.pop();
-        }
         return x;
     }
     
     bool empty() {
-        if(st1.size())return 0;
+        if(st1.size()||st2.size())return 0;
         return 1;
     }
 };
