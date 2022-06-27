@@ -54,7 +54,7 @@ class MyStack
 
     bool empty()
     {
-        cout<<q1.size()<<endl;
+        // cout<<q1.size()<<endl;
         if(q1.size()==0)return 1;
         return 0;
         
