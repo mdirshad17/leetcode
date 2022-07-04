@@ -14,9 +14,12 @@ class Solution{
     bool isPowerofTwo(long long n){
         
         if(n==0)return 0;
-        long long f=(n&(-n));
-        if(f==n)return 1;
-        return 0;
+        int cnt=0;
+        while(n){
+            cnt++;
+            n-=(n&(-n));
+        }
+        return (cnt==1);
         
     }
 };
