@@ -15,11 +15,9 @@ class Solution{
         
         if(n==0)return 0;
         int cnt=0;
-        while(n){
-            cnt++;
-            n-=(n&(-n));
-        }
-        return (cnt==1);
+        
+        if((n&(n-1))==0) return 1;
+        return 0;
         
     }
 };
