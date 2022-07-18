@@ -11,40 +11,42 @@
 class Solution
 {
     public:
-#define Node ListNode
+    #define Node ListNode
     int getLength(Node *head)
     {
         if (!head) return 0;
         return 1 + getLength(head->next);
     }
+    void print(Node *head)
+    {
+        if (!head) return ;
+        cout<<head->val<<" ";
+        print(head->next);
+    }
+    Node* ReverseK(Node * head,int n,int k){
+        if(n<k)return head;
+        Node * curr=head;
+        Node * prev=NULL;
+        Node * next=NULL;
+        Node * LNR=curr;
+        for(int i=0;i<k;i++){
+            next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+            
+        }
+        // print(prev);
+        // cout<<endl;
+        Node * Rest=ReverseK(curr,n-k,k);
+        LNR->next=Rest;
+        return prev;
+        
+    }
     ListNode* reverseKGroup(ListNode *head, int k)
     {
-
         int n = getLength(head);
         if (n < k) return head;
-        Node *heads = new Node(0);
-        Node *temp = heads;
-        Node *curr = head;
-        while (curr != NULL && n >= k)
-        {
-
-           	//reverse this chunk
-            Node *next = NULL;
-            Node *LNR = curr;
-            Node *prev = NULL;
-            for (int i = 0; i < k; i++)
-            {
-                next = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = next;
-            }
-            temp->next = prev;
-            temp = LNR;
-            n -= k;
-        }
-
-        temp->next = curr;
-        return heads->next;
+        return ReverseK(head,n,k);
     }
 };
