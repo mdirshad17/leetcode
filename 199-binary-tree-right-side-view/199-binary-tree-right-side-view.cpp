@@ -18,9 +18,10 @@ public:
         res.push_back(node->val);
         maxlevel++;
     }
-    swap(node->left,node->right);
+    // swap(node->left,node->right);
+    PO(node->right,maxlevel,nodelevel+1,res);    
     PO(node->left,maxlevel,nodelevel+1,res);
-    PO(node->right,maxlevel,nodelevel+1,res);
+   
     
 }
     vector<int> rightSideView(TreeNode* root) {
