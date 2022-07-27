@@ -16,29 +16,30 @@ public:
 };
 */
 
-class Solution {
-public:
-    Node* connect(Node* root) {
-        if(root==NULL)return root;
-        queue<Node*> q;
-        q.push(root);
-        while(q.size()){
-            int ns=q.size();
-            vector<Node*> v;
-            while(ns--){
-                Node * front=q.front();
-                q.pop();
-                if(front->left)q.push(front->left);
-                if(front->right)q.push(front->right);
-                v.push_back(front);
-            }
-            ///
-            for(int i=0;i<v.size();i++){
-                if((i+1)<v.size()){
-                    v[i]->next=v[i+1];
-                }else v[i]->next=NULL;
-            }
+class Solution
+{
+    public:
+       	// Cf connecting function
+        void CF(Node *root, Node *parent)
+        {
+            if (root == NULL) return;
+            if(parent){
+                if(root==parent->left){
+                    root->next=parent->right;
+                }else{
+                    if(parent->next){
+                        root->next=parent->next->left;
+                    }else root->next=NULL;
+                }
+            }else root->next=NULL;
+            
+            CF(root->left,root);
+            CF(root->right,root);
         }
+    Node* connect(Node *root)
+    {
+        if (root == NULL) return root;
+        CF(root, NULL);
         return root;
     }
 };
