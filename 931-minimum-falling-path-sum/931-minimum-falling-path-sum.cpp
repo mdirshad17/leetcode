@@ -2,7 +2,7 @@ class Solution {
 public:
     int dr[3]={1,1,1};
     int dc[3]={-1,0,1};
-    int dp[105][105];
+    vector<vector<int> > dp;
     int solve(int rn,int cn,vector<vector<int>>& matrix){
         int n=matrix.size();
         if(rn>=n)return 0;
@@ -21,9 +21,16 @@ public:
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
      
-        memset(dp,-1,sizeof(dp));
+        
         int n=matrix.size();
+        dp.clear();
+        dp.resize(n+5,vector<int>(n+5,-1));
         int ans=INT_MAX;
+        for(int i=0;i<n+5;i++){
+            for(int j=0;j<n+5;j++){
+                dp[i][j]=-1;
+            }
+        }
         for(int i=0;i<n;i++){
             int l=solve(0,i,matrix);
             ans=min(ans,l);
