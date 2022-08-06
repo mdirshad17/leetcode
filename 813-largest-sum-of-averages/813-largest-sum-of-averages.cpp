@@ -1,31 +1,34 @@
-class Solution {
-public:
+class Solution
+{
+    public:
+    
     double dp[105][105];
-    double solve(int s,int n,vector<int> & nums,int k){
-        if(s>=n){
-            if(k==0)return 0;
-            return INT_MIN/10;
+    double solve(int i, int n, int k, vector<int> &nums)
+    {
+        if (k < 0) return INT_MIN / 10;
+        if (i >= n) return 0;
+        if(dp[i][k]!=-1.00)return dp[i][k];
+        double globalans = INT_MIN;
+        double subsum = 0;
+        for (int j = i; j < n; j++)
+        {
+            subsum += nums[j];
+            double avg = 1.0 *subsum / (j - i + 1);
+            double localans = avg + solve(j + 1, n, k - 1, nums);
+            globalans = max(globalans, localans);
         }
-        if(k<=0)return INT_MIN/10;
-        if(dp[s][k]!=INT_MIN)return dp[s][k];
-        double ans=0;
-        double sum=0;
-        int len=0;
-        for(int i=s;i<n;i++){
-            sum+=nums[i];
-            len++;
-            double res=(1.0*sum/len)+solve(i+1,n,nums,k-1);
-            ans=max(ans,res);
-        }
-        return dp[s][k]=ans;
+        return dp[i][k]=globalans;
     }
-    double largestSumOfAverages(vector<int>& nums, int k) {
-        for(int i=0;i<105;i++){
-            for(int j=0;j<105;j++){
-                dp[i][j]=INT_MIN;
+    double largestSumOfAverages(vector<int> &nums, int k)
+    {
+        int n = nums.size();
+        for(int i=0;i<n+5;i++){
+            for(int j=0;j<k+5;j++){
+                dp[i][j]=-1.00;
             }
         }
-        int n=nums.size();
-        return solve(0,n,nums,k);
+        
+        double ans = solve(0, n, k, nums);
+        return ans;
     }
 };
