@@ -1,17 +1,17 @@
 class Solution
 {
     public:
-    int dp[15][1<<15];
+    int dp[1<<15];
     int cnt=0;
-        int solve(int i, int n, int mask)
+        int solve(int n, int mask)
         {
 
            	//... base case
-            
+            int i=__builtin_popcount(mask);
             if(i>=n){
                 return 1;
             }
-            if(dp[i][mask]!=-1)return dp[i][mask];    
+            if(dp[mask]!=-1)return dp[mask];    
            	// follow the constraint of the problem
            	// constraint to be a permutation
             cnt++;
@@ -23,16 +23,16 @@ class Solution
                 
                 if ((j % (i + 1)) == 0 || ((i + 1) % j) == 0)
                 {
-                    ans += solve(i + 1, n, (mask | (1 << (j - 1))));
+                    ans += solve( n, (mask | (1 << (j - 1))));
                 }
             }
-            return dp[i][mask]=ans;
+            return dp[mask]=ans;
         }
     int countArrangement(int n)
     {
         memset(dp,-1,sizeof(dp));
 
-        int ans = solve(0, n, 0);
+        int ans = solve( n, 0);
         cout<<cnt<<endl;
         return ans;
     }
