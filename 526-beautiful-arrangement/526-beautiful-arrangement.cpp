@@ -11,7 +11,7 @@ class Solution
             if(i>=n){
                 return 1;
             }
-            // if(dp[i][mask]!=-1)return dp[i][mask];    
+            if(dp[i][mask]!=-1)return dp[i][mask];    
            	// follow the constraint of the problem
            	// constraint to be a permutation
             cnt++;
