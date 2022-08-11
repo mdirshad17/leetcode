@@ -15,9 +15,11 @@ public:
     int solve(Node * root,long long leftrange,long long rightrange){
         if(root==NULL)return true;
         // if(leftrange<=root->val && rightrange>=root->val)
+        
         if(leftrange>root->val||rightrange<root->val)return 0;
         
         int lp=solve(root->left,leftrange,1LL*root->val-1);
+        
         int rp=solve(root->right,1LL*root->val+1,rightrange);
         if(lp && rp)return 1;
         return 0;
