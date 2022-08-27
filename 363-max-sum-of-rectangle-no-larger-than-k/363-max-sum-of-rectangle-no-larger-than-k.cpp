@@ -34,6 +34,7 @@ class Solution
                         b[k] += matrix[j][k];
                     }
                     int l = process(b, k);
+                    if(l==k)return l;
                     ans = max(ans, l);
                 }
             }
