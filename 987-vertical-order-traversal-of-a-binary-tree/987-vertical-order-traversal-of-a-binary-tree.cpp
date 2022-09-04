@@ -11,29 +11,25 @@
  */
 class Solution {
 public:
+    #define pii pair<int,int>
     #define Node TreeNode
+    map<int,vector<pii>> mp;
     
-    void PRT(Node * node,int x,int y,map<int,vector<pair<int,int>>> & mp){
-        if(node==NULL)return;
-        mp[x].push_back({node->val,y});
-        PRT(node->left,x-1,y+1,mp);
-        PRT(node->right,x+1,y+1,mp);
+    void solve(Node * root,int y,int x){
+        if(!root)return;
+        mp[y].push_back({root->val,x});
+        solve(root->left,y-1,x+1);
+        solve(root->right,y+1,x+1);
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        
-        vector<vector<int>> res;
-        if(root==NULL){
-            return res;
-        }
-        map<int,vector<pair<int,int>> > mp;
-        int x=0, y=0;
-        PRT(root,x,y,mp);
-        for(auto x:mp){
-            sort(x.second.begin(),x.second.end(),[](pair<int,int> & a,pair<int,int> & b){
-                if(a.second==b.second)return a.first<b.first;
+        solve(root,0,0);
+        vector<vector<int> > res;
+        for(auto & x:mp){
+            sort(x.second.begin(),x.second.end(),[](pii & a,pii & b){
+                if(a.second==b.second) return a.first<b.first;
                 return a.second<b.second;
             });
-            vector<int> v;
+           vector<int> v;
             for(int i=0;i<x.second.size();i++){
                 v.push_back(x.second[i].first);
             }
