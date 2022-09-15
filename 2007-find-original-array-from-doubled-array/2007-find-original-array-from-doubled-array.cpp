@@ -3,7 +3,7 @@ class Solution
     public:
         vector<int> findOriginalArray(vector<int> &changed)
         {
-            map<int, int> mp;
+            unordered_map<int, int> mp;
             int n = changed.size();
             if(n&1)return {};
             for (int i = 0; i < n; i++)
