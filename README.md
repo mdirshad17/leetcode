@@ -35,6 +35,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
+| [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
 ## Math
 |  |
 | ------- |
