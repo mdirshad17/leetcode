@@ -38,6 +38,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mdirshad17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +65,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
