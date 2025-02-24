@@ -16,15 +16,18 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -41,6 +44,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mdirshad17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -91,4 +95,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
