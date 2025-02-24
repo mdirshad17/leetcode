@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++){
             sort(grid[i].begin(),grid[i].end());
             if(limits[i]!=0){
-                cout<<grid[i].back()<<" \n";
+                // cout<<grid[i].back()<<" \n";
               pq.push({grid[i].back(),i});
               }
         }
