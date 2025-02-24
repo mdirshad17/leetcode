@@ -48,6 +48,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -99,4 +102,12 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+## Matrix
+|  |
+| ------- |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 <!---LeetCode Topics End-->
