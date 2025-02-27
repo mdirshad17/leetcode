@@ -42,6 +42,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/mdirshad17/leetcode/tree/master/0051-n-queens) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
@@ -68,6 +69,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/mdirshad17/leetcode/tree/master/0051-n-queens) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
