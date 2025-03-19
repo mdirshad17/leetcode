@@ -53,6 +53,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mdirshad17/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -96,6 +97,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mdirshad17/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
@@ -139,5 +141,14 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdirshad17/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mdirshad17/leetcode/tree/master/3483-alternating-groups-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
