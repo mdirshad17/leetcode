@@ -85,6 +85,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -99,11 +100,13 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
@@ -121,6 +124,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
