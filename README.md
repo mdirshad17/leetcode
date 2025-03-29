@@ -62,6 +62,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mdirshad17/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/mdirshad17/leetcode/tree/master/3429-special-array-i) |
@@ -80,6 +81,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mdirshad17/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mdirshad17/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## String
@@ -102,12 +104,14 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
@@ -137,6 +141,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/mdirshad17/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mdirshad17/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -173,6 +178,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/mdirshad17/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,4 +216,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
