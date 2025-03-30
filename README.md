@@ -7,6 +7,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -88,6 +89,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -110,6 +112,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -215,6 +218,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
