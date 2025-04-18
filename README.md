@@ -101,6 +101,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/mdirshad17/leetcode/tree/master/0038-count-and-say) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
