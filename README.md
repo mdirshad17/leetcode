@@ -68,6 +68,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/mdirshad17/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
