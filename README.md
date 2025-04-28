@@ -12,6 +12,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1500-count-largest-group](https://github.com/mdirshad17/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -96,6 +97,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
+| [1500-count-largest-group](https://github.com/mdirshad17/leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mdirshad17/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
