@@ -14,6 +14,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mdirshad17/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -74,6 +75,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2280-count-good-triplets-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mdirshad17/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -210,6 +212,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mdirshad17/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdirshad17/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mdirshad17/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mdirshad17/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
