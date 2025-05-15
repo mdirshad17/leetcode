@@ -80,6 +80,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mdirshad17/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mdirshad17/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mdirshad17/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -118,6 +119,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdirshad17/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +139,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/mdirshad17/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
@@ -163,6 +166,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mdirshad17/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mdirshad17/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/mdirshad17/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Sorting
 |  |
