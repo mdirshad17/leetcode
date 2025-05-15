@@ -11,6 +11,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/mdirshad17/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -65,6 +66,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mdirshad17/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mdirshad17/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mdirshad17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -144,6 +146,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
 |  |
