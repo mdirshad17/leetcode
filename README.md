@@ -61,6 +61,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/mdirshad17/leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -179,6 +180,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdirshad17/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -258,6 +260,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
