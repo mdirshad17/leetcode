@@ -91,6 +91,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mdirshad17/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mdirshad17/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mdirshad17/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/mdirshad17/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/mdirshad17/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mdirshad17/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -132,6 +133,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdirshad17/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mdirshad17/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/mdirshad17/leetcode/tree/master/3194-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
