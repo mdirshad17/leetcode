@@ -16,6 +16,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/mdirshad17/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mdirshad17/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -166,6 +167,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mdirshad17/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Prefix Sum
 |  |
@@ -187,6 +189,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mdirshad17/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/mdirshad17/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mdirshad17/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/mdirshad17/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -218,6 +221,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mdirshad17/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -269,6 +273,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mdirshad17/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
@@ -314,4 +319,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/mdirshad17/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
