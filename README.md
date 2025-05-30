@@ -146,6 +146,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mdirshad17/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mdirshad17/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/mdirshad17/leetcode/tree/master/3194-find-words-containing-character) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/mdirshad17/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +158,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mdirshad17/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mdirshad17/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/mdirshad17/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Greedy
 |  |
 | ------- |
@@ -337,4 +339,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Simulation
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/mdirshad17/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 <!---LeetCode Topics End-->
