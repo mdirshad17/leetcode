@@ -130,6 +130,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [3227-find-missing-and-repeated-values](https://github.com/mdirshad17/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/mdirshad17/leetcode/tree/master/3321-type-of-triangle) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mdirshad17/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/mdirshad17/leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## String
 |  |
 | ------- |
