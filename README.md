@@ -202,6 +202,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/mdirshad17/leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mdirshad17/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/mdirshad17/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -338,6 +339,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Memoization
 |  |
 | ------- |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/mdirshad17/leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mdirshad17/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Game Theory
 |  |
