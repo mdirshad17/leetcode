@@ -8,6 +8,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdirshad17/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -37,6 +38,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Depth-First Search
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -59,6 +61,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Design
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -137,6 +140,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/mdirshad17/leetcode/tree/master/0038-count-and-say) |
+| [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -349,4 +353,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/mdirshad17/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Trie
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
