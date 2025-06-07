@@ -129,6 +129,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/mdirshad17/leetcode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
@@ -215,6 +216,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/mdirshad17/leetcode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
