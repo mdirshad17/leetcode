@@ -127,6 +127,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1500-count-largest-group](https://github.com/mdirshad17/leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -214,6 +215,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/mdirshad17/leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
@@ -361,6 +363,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -369,4 +372,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
