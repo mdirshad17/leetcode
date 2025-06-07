@@ -30,6 +30,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -68,6 +69,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -126,6 +128,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
@@ -211,6 +214,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdirshad17/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -376,4 +380,8 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mdirshad17/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
