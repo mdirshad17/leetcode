@@ -41,6 +41,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/mdirshad17/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -378,6 +379,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/mdirshad17/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Brainteaser
 |  |
