@@ -88,6 +88,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0945-snakes-and-ladders](https://github.com/mdirshad17/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mdirshad17/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mdirshad17/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-video-stitching](https://github.com/mdirshad17/leetcode/tree/master/1081-video-stitching) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
@@ -187,6 +188,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mdirshad17/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-video-stitching](https://github.com/mdirshad17/leetcode/tree/master/1081-video-stitching) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
 | [2089-maximum-matrix-sum](https://github.com/mdirshad17/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mdirshad17/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -225,6 +227,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0972-knight-dialer](https://github.com/mdirshad17/leetcode/tree/master/0972-knight-dialer) |
+| [1081-video-stitching](https://github.com/mdirshad17/leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/mdirshad17/leetcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
