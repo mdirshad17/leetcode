@@ -10,6 +10,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0073-set-matrix-zeroes](https://github.com/mdirshad17/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/mdirshad17/leetcode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -84,6 +85,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/mdirshad17/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0876-hand-of-straights](https://github.com/mdirshad17/leetcode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/mdirshad17/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -189,6 +191,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0624-maximum-distance-in-arrays](https://github.com/mdirshad17/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/mdirshad17/leetcode/tree/master/0876-hand-of-straights) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mdirshad17/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/mdirshad17/leetcode/tree/master/1081-video-stitching) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
@@ -247,6 +250,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
+| [0876-hand-of-straights](https://github.com/mdirshad17/leetcode/tree/master/0876-hand-of-straights) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mdirshad17/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mdirshad17/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
