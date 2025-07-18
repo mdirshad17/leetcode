@@ -83,6 +83,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0073-set-matrix-zeroes](https://github.com/mdirshad17/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mdirshad17/leetcode/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/mdirshad17/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/mdirshad17/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mdirshad17/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/mdirshad17/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -185,6 +186,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdirshad17/leetcode/tree/master/0045-jump-game-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/mdirshad17/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/mdirshad17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mdirshad17/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
