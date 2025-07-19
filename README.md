@@ -46,6 +46,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdirshad17/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mdirshad17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mdirshad17/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mdirshad17/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mdirshad17/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -94,6 +95,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [1081-video-stitching](https://github.com/mdirshad17/leetcode/tree/master/1081-video-stitching) |
 | [1148-adding-two-negabinary-numbers](https://github.com/mdirshad17/leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mdirshad17/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mdirshad17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1503-reducing-dishes](https://github.com/mdirshad17/leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mdirshad17/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mdirshad17/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -159,6 +161,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | [0768-partition-labels](https://github.com/mdirshad17/leetcode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdirshad17/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/mdirshad17/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mdirshad17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdirshad17/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mdirshad17/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mdirshad17/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -394,6 +397,7 @@ MY LEETCODE PROFILE https://leetcode.com/mirsd_19/
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mdirshad17/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/mdirshad17/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mdirshad17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Brainteaser
 |  |
 | ------- |
